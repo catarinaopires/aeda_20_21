@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/catar/Desktop/MIEIC 2/AEDA/Teste 2016/AfterSalesService.cpp
+algorithm
+-
+AfterSalesService.h
+C:/Users/catar/Desktop/MIEIC 2/AEDA/Teste 2016/AfterSalesService.h
+
+C:/Users/catar/Desktop/MIEIC 2/AEDA/Teste 2016/AfterSalesService.h
+vector
+-
+queue
+-
+vector
+-
+Article.h
+C:/Users/catar/Desktop/MIEIC 2/AEDA/Teste 2016/Article.h
+
+C:/Users/catar/Desktop/MIEIC 2/AEDA/Teste 2016/Article.h
+
+C:/Users/catar/Desktop/MIEIC 2/AEDA/Teste 2016/Purchase.h
+stack
+-
+list
+-
+vector
+-
+Article.h
+C:/Users/catar/Desktop/MIEIC 2/AEDA/Teste 2016/Article.h
+
+C:/Users/catar/Desktop/MIEIC 2/AEDA/Teste 2016/main.cpp
+iostream
+-
+string
+-
+math.h
+-
+Article.h
+C:/Users/catar/Desktop/MIEIC 2/AEDA/Teste 2016/Article.h
+AfterSalesService.h
+C:/Users/catar/Desktop/MIEIC 2/AEDA/Teste 2016/AfterSalesService.h
+Purchase.h
+C:/Users/catar/Desktop/MIEIC 2/AEDA/Teste 2016/Purchase.h
+

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda2021_p02/Tests/fleet.cpp
+fleet.h
+C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda2021_p02/Tests/fleet.h
+string
+-
+
+C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda2021_p02/Tests/fleet.h
+vector
+-
+vehicle.h
+C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda2021_p02/Tests/vehicle.h
+
+C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda2021_p02/Tests/vehicle.h
+string
+-
+

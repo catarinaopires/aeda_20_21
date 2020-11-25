@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda2021_p02_extra/Tests/animal.cpp
+animal.h
+C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda2021_p02_extra/Tests/animal.h
+sstream
+-
+iostream
+-
+
+C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda2021_p02_extra/Tests/animal.h
+veterinary.h
+C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda2021_p02_extra/Tests/veterinary.h
+string
+-
+
+C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda2021_p02_extra/Tests/veterinary.h
+string
+-
+

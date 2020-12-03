@@ -9,7 +9,15 @@ struct betHash
 {
 	int operator() (const Bet& b) const
 	{
-		return 0;
+        int s = 0;
+        unordered_set<unsigned>::const_iterator it = b.getNumbers().begin();
+
+        while(it != b.getNumbers().end()){
+            s += *it;
+            it++;
+        }
+
+		return s;
 	}
 	
 	bool operator() (const Bet& b1, const Bet& b2) const

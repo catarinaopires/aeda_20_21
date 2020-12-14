@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda2021_p07/Tests/dictionary.cpp" "C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda2021_p07/cmake-build-debug/CMakeFiles/aeda2021_p07.dir/Tests/dictionary.cpp.obj"
-  "C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda2021_p07/Tests/game.cpp" "C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda2021_p07/cmake-build-debug/CMakeFiles/aeda2021_p07.dir/Tests/game.cpp.obj"
-  "C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda2021_p07/Tests/tests.cpp" "C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda2021_p07/cmake-build-debug/CMakeFiles/aeda2021_p07.dir/Tests/tests.cpp.obj"
-  "C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda2021_p07/main.cpp" "C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda2021_p07/cmake-build-debug/CMakeFiles/aeda2021_p07.dir/main.cpp.obj"
+  "C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda_20_21/aeda2021_p07/Tests/dictionary.cpp" "C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda_20_21/aeda2021_p07/cmake-build-debug/CMakeFiles/aeda2021_p07.dir/Tests/dictionary.cpp.obj"
+  "C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda_20_21/aeda2021_p07/Tests/game.cpp" "C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda_20_21/aeda2021_p07/cmake-build-debug/CMakeFiles/aeda2021_p07.dir/Tests/game.cpp.obj"
+  "C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda_20_21/aeda2021_p07/Tests/tests.cpp" "C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda_20_21/aeda2021_p07/cmake-build-debug/CMakeFiles/aeda2021_p07.dir/Tests/tests.cpp.obj"
+  "C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda_20_21/aeda2021_p07/main.cpp" "C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda_20_21/aeda2021_p07/cmake-build-debug/CMakeFiles/aeda2021_p07.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -20,8 +20,8 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda2021_p07/cmake-build-debug/lib/googletest-master/googlemock/gtest/CMakeFiles/gtest.dir/DependInfo.cmake"
-  "C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda2021_p07/cmake-build-debug/lib/googletest-master/googlemock/gtest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
+  "C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda_20_21/aeda2021_p07/cmake-build-debug/lib/googletest-master/googlemock/gtest/CMakeFiles/gtest.dir/DependInfo.cmake"
+  "C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda_20_21/aeda2021_p07/cmake-build-debug/lib/googletest-master/googlemock/gtest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

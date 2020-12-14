@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda2021_p07/lib/googletest-master
+# Install script for directory: C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda_20_21/aeda2021_p07/lib/googletest-master
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda2021_p07/cmake-build-debug/lib/googletest-master/googlemock/cmake_install.cmake")
+  include("C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda_20_21/aeda2021_p07/cmake-build-debug/lib/googletest-master/googlemock/cmake_install.cmake")
 
 endif()
 

@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda_20_21/aeda1617_ci3/Tests/BST.h
+iostream
+-
+stack
+-
+queue
+-
+
+C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda_20_21/aeda1617_ci3/Tests/Book.h
+User.h
+C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda_20_21/aeda1617_ci3/Tests/User.h
+string
+-
+
+C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda_20_21/aeda1617_ci3/Tests/ReadingClub.cpp
+ReadingClub.h
+C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda_20_21/aeda1617_ci3/Tests/ReadingClub.h
+
+C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda_20_21/aeda1617_ci3/Tests/ReadingClub.h
+Book.h
+C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda_20_21/aeda1617_ci3/Tests/Book.h
+User.h
+C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda_20_21/aeda1617_ci3/Tests/User.h
+BST.h
+C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda_20_21/aeda1617_ci3/Tests/BST.h
+vector
+-
+tr1/unordered_set
+-
+queue
+-
+
+C:/Users/catar/Desktop/MIEIC 2/AEDA/aeda_20_21/aeda1617_ci3/Tests/User.h
+string
+-
+vector
+-
+utility
+-
+
